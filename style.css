@@ -1,0 +1,17 @@
+h1{
+color:wheat;
+border:solid
+}
+.header{
+    background-color:slategray;
+    display:flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display:flex;
+    justify-content:flex-end
+    
+}
+ 
